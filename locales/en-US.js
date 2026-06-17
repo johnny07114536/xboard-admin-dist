@@ -426,6 +426,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
       },
       "fields": {
         "email": "Email",
+        "phone": "Phone Number",
         "id": "User ID",
         "plan_id": "Subscription",
         "transfer_enable": "Traffic",
@@ -3426,6 +3427,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
       "assignOrder": "Assign Order",
       "fields": {
         "userEmail": "User Email",
+        "userPhone": "User Phone",
         "orderPeriod": "Order Period",
         "subscriptionPlan": "Subscription Plan",
         "callbackNo": "Callback No.",

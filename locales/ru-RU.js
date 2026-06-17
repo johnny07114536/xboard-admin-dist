@@ -368,6 +368,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
       },
       "fields": {
         "email": "Email",
+        "phone": "Номер телефона",
         "id": "ID пользователя",
         "plan_id": "Подписка",
         "transfer_enable": "Трафик",
@@ -3341,6 +3342,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
       "assignOrder": "Назначить заказ",
       "fields": {
         "userEmail": "Email пользователя",
+        "userPhone": "Телефон пользователя",
         "orderPeriod": "Период заказа",
         "subscriptionPlan": "Тарифный план",
         "callbackNo": "№ Транзакции (Callback)",

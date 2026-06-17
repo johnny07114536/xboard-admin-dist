@@ -426,6 +426,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
       },
       "fields": {
         "email": "邮箱",
+        "phone": "手机号",
         "id": "用户ID",
         "plan_id": "订阅",
         "transfer_enable": "流量",
@@ -3441,6 +3442,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
       "assignOrder": "订单分配",
       "fields": {
         "userEmail": "用户邮箱",
+        "userPhone": "用户手机号",
         "orderPeriod": "订单周期",
         "subscriptionPlan": "订阅计划",
         "callbackNo": "回调单号",
