@@ -788,6 +788,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
           "success": "Successfully deleted"
         },
         "price_period": {
+          "weekly": "Weekly",
           "monthly": "Monthly",
           "quarterly": "Quarterly",
           "half_yearly": "Half Yearly",
@@ -798,6 +799,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
           "reset_traffic": "Reset Traffic",
           "no_price": "No Price",
           "unit": {
+            "week": "/week",
             "month": "/month",
             "quarter": "/quarter",
             "half_year": "/half year",
@@ -1277,6 +1279,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
             "success": "Successfully deleted"
           },
           "price_period": {
+            "weekly": "Weekly",
             "monthly": "Monthly",
             "quarterly": "Quarterly",
             "half_yearly": "Half Yearly",
@@ -1286,6 +1289,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
             "onetime": "One Time",
             "reset_traffic": "Reset Traffic",
             "unit": {
+              "week": "/week",
               "month": "/month",
               "quarter": "/quarter",
               "half_year": "/half year",
@@ -2681,6 +2685,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
       }
     },
     "period": {
+      "weekly": "Weekly",
       "monthly": "Monthly",
       "quarterly": "Quarterly",
       "half_yearly": "Half Yearly",
@@ -3384,6 +3389,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
       "RESET_FLOW": "Reset Traffic"
     },
     "period": {
+      "week_price": "Weekly",
       "month_price": "Monthly",
       "quarter_price": "Quarterly",
       "half_year_price": "Semi-annually",

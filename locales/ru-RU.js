@@ -730,6 +730,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
           "success": "Тариф успешно удален"
         },
         "price_period": {
+          "weekly": "Еженедельно",
           "monthly": "Ежемесячно",
           "quarterly": "Ежеквартально",
           "half_yearly": "Раз в полгода",
@@ -740,6 +741,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
           "reset_traffic": "Сброс трафика",
           "no_price": "Нет цены",
           "unit": {
+            "week": "/нед",
             "month": "/мес",
             "quarter": "/квартал",
             "half_year": "/полгода",
@@ -1219,6 +1221,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
             "success": "Удалено"
           },
           "price_period": {
+            "weekly": "Еженедельно",
             "monthly": "Месяц",
             "quarterly": "Квартал",
             "half_yearly": "Полгода",
@@ -1228,6 +1231,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
             "onetime": "Единоразово",
             "reset_traffic": "Сброс трафика",
             "unit": {
+              "week": "/нед",
               "month": "/мес",
               "quarter": "/кв",
               "half_year": "/п-года",
@@ -2596,6 +2600,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
       }
     },
     "period": {
+      "weekly": "Еженедельно",
       "monthly": "Ежемесячно",
       "quarterly": "Ежеквартально",
       "half_yearly": "Раз в полгода",
@@ -3299,6 +3304,7 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
       "RESET_FLOW": "Сброс трафика"
     },
     "period": {
+      "week_price": "Еженедельно",
       "month_price": "Ежемесячно",
       "quarter_price": "Ежеквартально",
       "half_year_price": "Раз в полгода",

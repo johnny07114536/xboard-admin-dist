@@ -789,6 +789,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
           "success": "删除成功"
         },
         "price_period": {
+          "weekly": "周付",
           "monthly": "月付",
           "quarterly": "季付",
           "half_yearly": "半年付",
@@ -799,6 +800,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
           "reset_traffic": "重置包",
           "no_price": "无价格",
           "unit": {
+            "week": "元/周",
             "month": "元/月",
             "quarter": "元/季",
             "half_year": "元/半年",
@@ -1187,6 +1189,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
             "success": "删除成功"
           },
           "price_period": {
+            "weekly": "周付",
             "monthly": "月付",
             "quarterly": "季付",
             "half_yearly": "半年付",
@@ -1196,6 +1199,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
             "onetime": "流量包",
             "reset_traffic": "重置包",
             "unit": {
+              "week": "元/周",
               "month": "元/月",
               "quarter": "元/季",
               "half_year": "元/半年",
@@ -2710,6 +2714,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
       }
     },
     "period": {
+      "weekly": "周付",
       "monthly": "月",
       "quarterly": "季度",
       "half_yearly": "半年",
@@ -3399,6 +3404,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
       "RESET_FLOW": "流量重置"
     },
     "period": {
+      "week_price": "周付",
       "month_price": "月付",
       "quarter_price": "季付",
       "half_year_price": "半年付",
