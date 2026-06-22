@@ -996,9 +996,9 @@ window.XBOARD_TRANSLATIONS['ru-RU'] = {
           "placeholder": "Отключено",
           "description": "Выберите тариф для триала при регистрации.",
           "duration": {
-            "label": "Длительность (часов)",
+            "label": "Длительность (минут)",
             "placeholder": "0",
-            "description": "Время действия пробного периода."
+            "description": "Длительность пробного периода в минутах."
           }
         },
         "currency": {

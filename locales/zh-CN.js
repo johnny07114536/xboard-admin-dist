@@ -966,7 +966,7 @@ window.XBOARD_TRANSLATIONS['zh-CN'] = {
           "duration": {
             "label": "注册试用时长",
             "placeholder": "0",
-            "description": "注册试用时长，单位为小时。"
+            "description": "注册试用时长，单位为分钟。"
           }
         },
         "currency": {

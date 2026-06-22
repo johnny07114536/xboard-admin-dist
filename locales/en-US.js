@@ -1056,7 +1056,7 @@ window.XBOARD_TRANSLATIONS['en-US'] = {
           "duration": {
             "label": "Trial Duration",
             "placeholder": "0",
-            "description": "Trial duration in hours."
+            "description": "Trial duration in minutes."
           }
         },
         "currency": {
